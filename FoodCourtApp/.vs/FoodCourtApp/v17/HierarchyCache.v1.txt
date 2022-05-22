@@ -1,0 +1,752 @@
+﻿++Solution 'FoodCourtApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:FoodCourtApp.sln
+++FoodCourtApp
+i:{00000000-0000-0000-0000-000000000000}:FoodCourtApp
+++Properties
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\properties\
+++References
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Antlr3.Runtime
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++AspNet.ScriptManager.bootstrap
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++AspNet.ScriptManager.jQuery
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.AspNet.FriendlyUrls
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.CSharp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.ScriptManager.MSAjax
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.ScriptManager.WebForms
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Microsoft.Web.Infrastructure
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++Newtonsoft.Json
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.ComponentModel.DataAnnotations
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Configuration
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Core
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Data
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Data.DataSetExtensions
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Drawing
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.EnterpriseServices
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web.ApplicationServices
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web.DynamicData
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web.Entity
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web.Extensions
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web.Optimization
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Web.Services
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++System.Xml.Linq
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++WebGrease
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:
+++App_Data
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\app_data\
+++App_Start
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\app_start\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\app_start\
+++Content
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\
+++DAL
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\dal\
+++UserDAL.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\dal\userdal.cs
+++fonts
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\fonts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\fonts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\fonts\
+++Models
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\models\
+++Scripts
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\scripts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\scripts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\content\scripts\
+++About.aspx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\about.aspx
+++Bundle.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bundle.config
+++Contact.aspx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\contact.aspx
+++Default.aspx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\default.aspx
+++favicon.ico
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\favicon.ico
+++Global.asax
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\global.asax
+++Global.asax.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\global.asax.cs
+++Login.aspx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\login.aspx
+++Login.aspx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\login.aspx.cs
+++Login.aspx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\login.aspx.designer.cs
+++Logout.aspx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\logout.aspx
+++Logout.aspx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\logout.aspx.cs
+++Logout.aspx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\logout.aspx.designer.cs
+++packages.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages.config
+++Register.aspx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\register.aspx
+++Register.aspx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\register.aspx.cs
+++Register.aspx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\register.aspx.designer.cs
+++Site.Master
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\site.master
+++Site.Master.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\site.master.cs
+++Site.Master.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\site.master.designer.cs
+++Site.Mobile.Master
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\site.mobile.master
+++ViewSwitcher.ascx
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\viewswitcher.ascx
+++Web.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\web.config
+++AssemblyInfo.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\properties\assemblyinfo.cs
+++BundleConfig.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\app_start\bundleconfig.cs
+++RouteConfig.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\app_start\routeconfig.cs
+++bootstrap-theme.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap-theme.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap-theme.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap-theme.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap-theme.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap-theme.min.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap-theme.min.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap-theme.min.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap-theme.min.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.css
+++bootstrap.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.css.map
+++bootstrap.min.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap.min.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap.min.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\bootstrap.min.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\content\bootstrap.min.css.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\content\bootstrap.min.css.map
+++Site.css
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\content\site.css
+++glyphicons-halflings-regular.eot
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\fonts\glyphicons-halflings-regular.eot
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.eot
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\fonts\glyphicons-halflings-regular.svg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.svg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\fonts\glyphicons-halflings-regular.ttf
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.ttf
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\fonts\glyphicons-halflings-regular.woff
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\fonts\glyphicons-halflings-regular.woff2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\fonts\glyphicons-halflings-regular.woff2
+++User.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\models\user.cs
+++WebForms
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\
+++bootstrap.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\bootstrap.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\scripts\bootstrap.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\scripts\bootstrap.js
+++bootstrap.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\bootstrap.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\scripts\bootstrap.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.intellisense.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\tools\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.min.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.slim.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.slim.min.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\jquery-3.4.1.slim.min.map
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\modernizr-2.8.3.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\content\scripts\modernizr-2.8.3.js
+++About.aspx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\about.aspx.cs
+++About.aspx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\about.aspx.designer.cs
+++Contact.aspx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\contact.aspx.designer.cs
+++Default.aspx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\default.aspx.cs
+++Default.aspx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\default.aspx.designer.cs
+++Site.Mobile.Master.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\site.mobile.master.cs
+++Site.Mobile.Master.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\site.mobile.master.designer.cs
+++ViewSwitcher.ascx.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\viewswitcher.ascx.designer.cs
+++Web.Debug.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\web.debug.config
+++Web.Release.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\web.release.config
+++MSAjax
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\
+++DetailsView.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\detailsview.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\detailsview.js
+++Focus.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\focus.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\focus.js
+++GridView.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\gridview.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\gridview.js
+++Menu.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\menu.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\menu.js
+++MenuStandards.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\menustandards.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\smartnav.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\smartnav.js
+++TreeView.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\treeview.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\treeview.js
+++WebForms.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\webforms.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\webforms.js
+++WebParts.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\webparts.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\webuivalidation.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\scripts\webforms\webuivalidation.js
+++MicrosoftAjax.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajax.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxcore.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxglobalization.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxhistory.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxnetwork.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxserialization.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxtimer.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxwebforms.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\scripts\webforms\msajax\microsoftajaxwebservices.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\scripts\webforms\msajax\microsoftajaxwebservices.js
+++bin
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++obj
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\obj\
+++Debug
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\obj\debug\
+++TempPE
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+++build.force
+++DesignTimeResolveAssemblyReferences.cache
+++DesignTimeResolveAssemblyReferencesInput.cache
+++FoodCourtApp.csproj.AssemblyReference.cache
+++FoodCourtApp.csproj.FileListAbsolute.txt
+++packages
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\
+++Antlr.3.5.0.2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\antlr.3.5.0.2\
+++AspNet.ScriptManager.bootstrap.3.4.1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\
+++AspNet.ScriptManager.jQuery.3.4.1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\
+++bootstrap.3.4.1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\
+++jQuery.3.4.1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\
+++Microsoft.AspNet.FriendlyUrls.1.0.2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\
+++Microsoft.AspNet.FriendlyUrls.Core.1.0.2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\
+++Microsoft.AspNet.ScriptManager.MSAjax.5.0.0
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\
+++Microsoft.AspNet.ScriptManager.WebForms.5.0.0
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\
+++Microsoft.AspNet.Web.Optimization.1.1.3
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\
+++Microsoft.AspNet.Web.Optimization.WebForms.1.1.3
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\
+++Microsoft.Web.Infrastructure.1.0.0.0
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.web.infrastructure.1.0.0.0\
+++Modernizr.2.8.3
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\
+++Newtonsoft.Json.12.0.2
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\
+++WebGrease.1.6.0
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\
+++lib
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\antlr.3.5.0.2\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.web.infrastructure.1.0.0.0\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\lib\
+++.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\antlr.3.5.0.2\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.web.infrastructure.1.0.0.0\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\.signature.p7s
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\.signature.p7s
+++Antlr.3.5.0.2.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\antlr.3.5.0.2\antlr.3.5.0.2.nupkg
+++AspNet.ScriptManager.bootstrap.3.4.1.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\aspnet.scriptmanager.bootstrap.3.4.1.nupkg
+++AspNet.ScriptManager.jQuery.3.4.1.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\aspnet.scriptmanager.jquery.3.4.1.nupkg
+++content
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\content\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\
+++contentFiles
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\contentfiles\
+++bootstrap.3.4.1.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\bootstrap.3.4.1.nupkg
+++LICENSE.txt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\bootstrap.3.4.1\license.txt
+++Tools
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\tools\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\tools\
+++jQuery.3.4.1.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\jquery.3.4.1.nupkg
+++Microsoft.AspNet.FriendlyUrls.1.0.2.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\microsoft.aspnet.friendlyurls.1.0.2.nupkg
+++readme.txt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\readme.txt
+++Microsoft.AspNet.FriendlyUrls.Core.1.0.2.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\microsoft.aspnet.friendlyurls.core.1.0.2.nupkg
+++Microsoft.AspNet.ScriptManager.MSAjax.5.0.0.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\microsoft.aspnet.scriptmanager.msajax.5.0.0.nupkg
+++Microsoft.AspNet.ScriptManager.WebForms.5.0.0.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\microsoft.aspnet.scriptmanager.webforms.5.0.0.nupkg
+++Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\microsoft.aspnet.web.optimization.1.1.3.nupkg
+++Microsoft.AspNet.Web.Optimization.WebForms.1.1.3.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\microsoft.aspnet.web.optimization.webforms.1.1.3.nupkg
+++build
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\
+++tools
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\tools\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1.nupkg
+++Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.web.infrastructure.1.0.0.0\microsoft.web.infrastructure.1.0.0.0.nupkg
+++Modernizr.2.8.3.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\modernizr.2.8.3.nupkg
+++LICENSE.md
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\license.md
+++Newtonsoft.Json.12.0.2.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\newtonsoft.json.12.0.2.nupkg
+++WebGrease.1.6.0.nupkg
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\webgrease.1.6.0.nupkg
+++Antlr3.Runtime.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\antlr3.runtime.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\antlr.3.5.0.2\lib\antlr3.runtime.dll
+++Antlr3.Runtime.pdb
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\antlr.3.5.0.2\lib\antlr3.runtime.pdb
+++net40
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\lib\net40\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\lib\net40\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\net40\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\lib\net40\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.web.infrastructure.1.0.0.0\lib\net40\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net40\
+++net45
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net45\
+++common.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\tools\common.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\tools\common.ps1
+++install.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\tools\install.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\tools\install.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\install.ps1
+++uninstall.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\tools\uninstall.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\modernizr.2.8.3\tools\uninstall.ps1
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\uninstall.ps1
+++Site.Mobile.Master.cs.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\site.mobile.master.cs.pp
+++Site.Mobile.Master.designer.cs.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\site.mobile.master.designer.cs.pp
+++Site.Mobile.Master.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\site.mobile.master.pp
+++ViewSwitcher.ascx.cs.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\viewswitcher.ascx.cs.pp
+++ViewSwitcher.ascx.designer.cs.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\viewswitcher.ascx.designer.cs.pp
+++ViewSwitcher.ascx.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\viewswitcher.ascx.pp
+++web.config.transform
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\content\web.config.transform
+++net46
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\
+++Roslyn45
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\
+++RoslynLatest
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\
+++net20
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net20\
+++net35
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net35\
+++netstandard1.0
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard1.0\
+++netstandard1.3
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard1.3\
+++netstandard2.0
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard2.0\
+++portable-net40+sl5+win8+wp8+wpa81
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\
+++portable-net45+win8+wp8+wpa81
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\portable-net45+win8+wp8+wpa81\
+++WebGrease.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\webgrease.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\lib\webgrease.dll
+++WG.EXE
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\webgrease.1.6.0\tools\wg.exe
+++AspNet.ScriptManager.bootstrap.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\aspnet.scriptmanager.bootstrap.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\lib\net40\aspnet.scriptmanager.bootstrap.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.bootstrap.3.4.1\lib\net45\aspnet.scriptmanager.bootstrap.dll
+++AspNet.ScriptManager.jQuery.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\aspnet.scriptmanager.jquery.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\lib\net40\aspnet.scriptmanager.jquery.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\aspnet.scriptmanager.jquery.3.4.1\lib\net45\aspnet.scriptmanager.jquery.dll
+++jquery-3.4.1-vsdoc.js
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\jquery.3.4.1\content\scripts\jquery-3.4.1-vsdoc.js
+++RouteConfig.cs.pp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.1.0.2\content\app_start\routeconfig.cs.pp
+++Microsoft.AspNet.FriendlyUrls.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\microsoft.aspnet.friendlyurls.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\net40\microsoft.aspnet.friendlyurls.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\net45\microsoft.aspnet.friendlyurls.dll
+++Microsoft.AspNet.FriendlyUrls.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\net40\microsoft.aspnet.friendlyurls.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.friendlyurls.core.1.0.2\lib\net45\microsoft.aspnet.friendlyurls.xml
+++Microsoft.ScriptManager.MSAjax.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\microsoft.scriptmanager.msajax.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.msajax.5.0.0\lib\net45\microsoft.scriptmanager.msajax.dll
+++Microsoft.ScriptManager.WebForms.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\microsoft.scriptmanager.webforms.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.scriptmanager.webforms.5.0.0\lib\net45\microsoft.scriptmanager.webforms.dll
+++System.Web.Optimization.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\system.web.optimization.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\lib\net40\system.web.optimization.dll
+++system.web.optimization.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.1.1.3\lib\net40\system.web.optimization.xml
+++Microsoft.AspNet.Web.Optimization.WebForms.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\microsoft.aspnet.web.optimization.webforms.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.aspnet.web.optimization.webforms.1.1.3\lib\net45\microsoft.aspnet.web.optimization.webforms.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\microsoft.codedom.providers.dotnetcompilerplatform.props
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.props
+++app.config.install.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\app.config.install.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\app.config.install.xdt
+++app.config.uninstall.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\app.config.uninstall.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\app.config.uninstall.xdt
+++web.config.install.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\web.config.install.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\web.config.install.xdt
+++web.config.uninstall.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\web.config.uninstall.xdt
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\web.config.uninstall.xdt
+++csc.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.exe
+++csc.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.exe.config
+++csc.rsp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.rsp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.rsp
+++csi.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csi.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.exe
+++csi.rsp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csi.rsp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.build.tasks.codeanalysis.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.csharp.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.csharp.scripting.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.scripting.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.visualbasic.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.csharp.core.targets
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.diasymreader.native.amd64.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.diasymreader.native.x86.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.diasymreader.native.x86.dll
+++Microsoft.VisualBasic.Core.targets
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.visualbasic.core.targets
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.visualbasic.core.targets
+++System.AppContext.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.appcontext.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.collections.immutable.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.collections.immutable.dll
+++System.Diagnostics.StackTrace.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.diagnostics.stacktrace.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.stacktrace.dll
+++System.IO.FileSystem.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.io.filesystem.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.io.filesystem.primitives.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.filesystem.primitives.dll
+++System.Reflection.Metadata.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.reflection.metadata.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.reflection.metadata.dll
+++vbc.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.exe
+++vbc.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.exe.config
+++vbc.rsp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.rsp
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.rsp
+++VBCSCompiler.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbcscompiler.exe
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbcscompiler.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbcscompiler.exe.config
+++csi.exe.config
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.exe.config
+++Microsoft.Managed.Core.targets
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.managed.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.win32.primitives.dll
+++System.Console.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.fileversioninfo.dll
+++System.Globalization.Calendars.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.compression.zipfile.dll
+++System.Net.Http.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.net.http.dll
+++System.Net.Sockets.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.net.sockets.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xpath.xdocument.dll
+++Microsoft.Web.Infrastructure.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\microsoft.web.infrastructure.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\microsoft.web.infrastructure.1.0.0.0\lib\net40\microsoft.web.infrastructure.dll
+++Newtonsoft.Json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net20\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net35\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net40\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net45\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard1.0\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard1.3\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard2.0\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\newtonsoft.json.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\portable-net45+win8+wp8+wpa81\newtonsoft.json.dll
+++Newtonsoft.Json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net20\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net35\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net40\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\net45\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard1.0\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard1.3\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\netstandard2.0\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\newtonsoft.json.xml
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\packages\newtonsoft.json.12.0.2\lib\portable-net45+win8+wp8+wpa81\newtonsoft.json.xml
+++FoodCourtDb.mdf
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\app_data\foodcourtdb.mdf
+++FoodCourtDb.ldf
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\app_data\foodcourtdb.ldf
+++FoodCourtApp (unloaded)
+++Solution 'FoodCourtApp' ‎(0 of 1 project)
+++FoodCourtApp (load failed)
+++FoodCourtApp.dll
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\foodcourtapp.dll
+++FoodCourtApp.pdb
+i:{060cd580-85d4-4cab-8af6-e76dc67fd057}:c:\jay pawar\4th sem\projects\foodcourtapp\bin\foodcourtapp.pdb

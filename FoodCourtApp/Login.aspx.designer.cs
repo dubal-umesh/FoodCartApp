@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FoodCourtApp
-{
-
-
-    public partial class Login
-    {
-
+namespace FoodCourtApp {
+    
+    
+    public partial class Login {
+        
         /// <summary>
         /// txtUserName control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace FoodCourtApp
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtUserName;
-
+        
         /// <summary>
         /// RequiredFieldValidatoruser control.
         /// </summary>
@@ -31,7 +29,7 @@ namespace FoodCourtApp
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatoruser;
-
+        
         /// <summary>
         /// txtPassword control.
         /// </summary>
@@ -40,7 +38,7 @@ namespace FoodCourtApp
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtPassword;
-
+        
         /// <summary>
         /// RequiredFieldValidatorpass control.
         /// </summary>
@@ -49,7 +47,7 @@ namespace FoodCourtApp
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorpass;
-
+        
         /// <summary>
         /// lblErrorMessage control.
         /// </summary>
@@ -58,7 +56,7 @@ namespace FoodCourtApp
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblErrorMessage;
-
+        
         /// <summary>
         /// btnLogin control.
         /// </summary>
@@ -67,14 +65,5 @@ namespace FoodCourtApp
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnLogin;
-
-        /// <summary>
-        /// lnkRegister control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink lnkRegister;
     }
 }

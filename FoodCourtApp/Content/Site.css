@@ -17,8 +17,36 @@ select,
 textarea {
     max-width: 280px;
 }
+
 .userTitle {
     color: #9d9d9d;
+}
+
+.labelAlign {
+    text-align: right;
+    width: 200px;
+    padding-top: 6px;
+    padding-right:10px;
+}
+
+.tdControl {
+    width: 300px;
+    padding-top: 6px;
+}
+
+.tdValidator {
+    width: 200px;
+    padding-top: 6px;
+    padding-left:10px;
+}
+.tblForm
+{
+    padding-top:100px;
+}
+
+.tblForm th td {
+
+    padding: 10px !important;
 }
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -30,9 +58,9 @@ textarea {
         padding: 0;
     }
 }
+
 .center {
     margin-left: auto;
     margin-right: auto;
-    margin-top:100px;
-    
+    margin-top: 100px;
 }

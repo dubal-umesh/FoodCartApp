@@ -46,7 +46,7 @@
      <div>
        
         <p class="auto-style3">
-            <strong><em><span class="auto-style4">Registration Form</span></em></strong>
+            <strong><em><span class="auto-style4">Login Form</span></em></strong>
         </p>
          </div>
     <div class="row">

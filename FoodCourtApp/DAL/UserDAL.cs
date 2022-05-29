@@ -50,7 +50,7 @@ namespace FoodCourtApp.DAL
                 try
                 {
                     conn.Open();
-                    SqlCommand cmd = new SqlCommand("SpRegisterUser", conn);
+                    SqlCommand cmd = new SqlCommand("sp_RegisterUser", conn);
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.AddWithValue("@userName", user.UserName);
                     cmd.Parameters.AddWithValue("@password", user.Password);

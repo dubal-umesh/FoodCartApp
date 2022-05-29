@@ -9,6 +9,7 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    padding-top:45px !important;
 }
 
 /* Set widths on the form inputs since otherwise they're 100% wide */
@@ -16,6 +17,10 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+.grd td,th
+{
+    padding-left:5px !important;
 }
 
 .userTitle {

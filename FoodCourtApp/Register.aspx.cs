@@ -37,7 +37,7 @@ namespace FoodCourtApp
             user.RoleId = 2;   //for Customer
             string result = objUserDAL.registerUser(user);
             Lblreg.Visible = true;
-            Lblreg.Text = "Register Successfully";
+            Lblreg.Text = result;
 
             //Response.Redirect("Login.aspx");
         }

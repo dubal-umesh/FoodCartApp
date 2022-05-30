@@ -17,7 +17,7 @@ namespace FoodCourtApp
         {
             if (SiteMaster.LoggedInUser != null)
             {
-                if (SiteMaster.LoggedInUser.RoleId != 1)
+                if (SiteMaster.LoggedInUser.RoleId == 1)
                 {
 
                     objProductDAL = new ProductDAL();

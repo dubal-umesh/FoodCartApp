@@ -14,17 +14,31 @@ namespace FoodCourtApp
         private ProductDAL objProductDAL = null;
         protected void Page_Load(object sender, EventArgs e)
         {
-            objProductDAL = new ProductDAL();
-            if (!Page.IsPostBack)
+            if (SiteMaster.LoggedInUser != null)
             {
-                ProductGridBind();
+                if (SiteMaster.LoggedInUser.RoleId != 1)
+                {
+                    objProductDAL = new ProductDAL();
+                    if (!Page.IsPostBack)
+                    {
+                        ProductGridBind();
+                    }
+                }
+                else
+                {
+                    Response.Redirect("Login.aspx");
+                }
+            }
+            else
+            {
+                Response.Redirect("Login.aspx");
             }
 
         }
 
         private void ProductGridBind()
-        {           
-             var products = objProductDAL.GetProducts();
+        {
+            var products = objProductDAL.GetProducts();
             if (products.Count > 0)
             {
                 DivNoRecords.Visible = false;

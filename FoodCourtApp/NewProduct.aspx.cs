@@ -15,10 +15,26 @@ namespace FoodCourtApp
         private ProductDAL objProductDAL = null;
         protected void Page_Load(object sender, EventArgs e)
         {
-            objProductDAL = new ProductDAL();
-            if(!Page.IsPostBack)
+            if (SiteMaster.LoggedInUser != null)
             {
-                lblMessage.Visible = false;
+                if (SiteMaster.LoggedInUser.RoleId != 1)
+                {
+
+                    objProductDAL = new ProductDAL();
+                    if (!Page.IsPostBack)
+                    {
+
+                        lblMessage.Visible = false;
+                    }
+                }
+                else
+                {
+                    Response.Redirect("Login.aspx");
+                }
+            }
+            else
+            {
+                Response.Redirect("Login.aspx");
             }
         }
 
@@ -31,7 +47,7 @@ namespace FoodCourtApp
             product.ProductLogoPath = hdnProductLogo.Value;
             lblMessage.Visible = true;
             lblMessage.Text = objProductDAL.insertProduct(product);
-            
+
         }
 
         protected void btnCancel_Click(object sender, EventArgs e)

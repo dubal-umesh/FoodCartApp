@@ -43,7 +43,7 @@ namespace FoodCourtApp.DAL
 
                 }
                 conn.Close();
-                conn.Close();
+                
             }
             return order;
         }
@@ -69,8 +69,8 @@ namespace FoodCourtApp.DAL
                     orderDetail = new OrderDetails();
                     orderDetail.Id = Convert.ToInt32(dr["Id"]);
                     orderDetail.OrderId = Convert.ToInt32(dr["OrderId"]);
-                    orderDetail.ProductId = Convert.ToInt32(dr["OrderNumber"]);
-                    orderDetail.Rate = float.Parse(Convert.ToString(dr["OrderDate"]));
+                    orderDetail.ProductId = Convert.ToInt32(dr["ProductId"]);
+                    orderDetail.Rate = float.Parse(Convert.ToString(dr["Rate"]));
                     orderDetail.Qty = Convert.ToInt32(dr["Qty"]);
                     orderDetail.Amount = float.Parse(Convert.ToString(dr["Amount"]));
                     orderDetail.ProductName = Convert.ToString(dr["productName"]);
@@ -80,6 +80,124 @@ namespace FoodCourtApp.DAL
                 conn.Close();
             }
             return orderDetails;
+
+        }
+
+
+        public Order GetInprogressOrder(int CustomerId)
+        {
+            SqlDataReader dr = null;
+            Order order = null;
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("sp_getInprogressOrder", conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@CustomerId", CustomerId);
+
+                dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    order = new Order();
+                    order.OrderId = Convert.ToInt32(dr["ID"]);
+                    order.OrderNumber = Convert.ToString(dr["OrderNumber"]);
+                    order.OrderDate = Convert.ToString(dr["OrderDate"]);
+                    order.CustomerId = Convert.ToInt32(dr["CustomerId"]);
+                    order.CustomerName = Convert.ToString(dr["CustomerName"]);
+                    order.Address = Convert.ToString(dr["Address"]);
+                    order.ContactNo = Convert.ToString(dr["ContactNo"]);
+
+                }
+                
+                conn.Close();
+            }
+            return order;
+
+        }
+
+        public List<OrderDetails> GetOrderDetails(int OrderId)
+        {
+        
+            SqlDataReader dr = null;
+            List<OrderDetails> orderDetails = null;
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("sp_getOrderDetail", conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@OrderId", OrderId);
+               
+                dr = cmd.ExecuteReader();
+                orderDetails = new List<OrderDetails>();
+                while (dr.Read())
+                {
+                    OrderDetails orderDetail = new OrderDetails();
+                    orderDetail = new OrderDetails();
+                    orderDetail.Id = Convert.ToInt32(dr["Id"]);
+                    orderDetail.OrderId = Convert.ToInt32(dr["OrderId"]);
+                    orderDetail.ProductId = Convert.ToInt32(dr["ProductId"]);
+                    orderDetail.Rate = float.Parse(Convert.ToString(dr["Rate"]));
+                    orderDetail.Qty = Convert.ToInt32(dr["Qty"]);
+                    orderDetail.Amount = float.Parse(Convert.ToString(dr["Amount"]));
+                    orderDetail.ProductName = Convert.ToString(dr["productName"]);
+                    orderDetails.Add(orderDetail);
+                }
+
+                conn.Close();
+            }
+            return orderDetails;
+
+        }
+        public string RemoveCartItem(int Id, int orderId)
+        {
+            string message = "Item Removed from Cart.";
+           
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    conn.Open();
+                    SqlCommand cmd = new SqlCommand("sp_RemoveCartItem", conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@Id", Id);
+                    cmd.Parameters.AddWithValue("@orderId", orderId);
+
+                    int i = cmd.ExecuteNonQuery();
+                }catch(Exception ex)
+                {
+                    message = "Item cannot be removed from Cart.";
+                }
+                
+
+                conn.Close();
+            }
+            return message;
+
+        }
+
+        public string PlaceOrder( int orderId, string OrderNumber)
+        {
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    conn.Open();
+                    SqlCommand cmd = new SqlCommand("sp_PlaceOrder", conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                   
+                    cmd.Parameters.AddWithValue("@orderId", orderId);
+
+                    int i = cmd.ExecuteNonQuery();
+                }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
+
+
+                conn.Close();
+            }
+            return OrderNumber;
 
         }
 

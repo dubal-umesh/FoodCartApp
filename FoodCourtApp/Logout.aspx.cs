@@ -13,6 +13,7 @@ namespace FoodCourtApp
 
         {
             Session.RemoveAll();
+            SiteMaster.LoggedInUser = null;
             Session.Abandon();
         }
     }

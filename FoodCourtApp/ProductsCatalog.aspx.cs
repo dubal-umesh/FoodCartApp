@@ -21,7 +21,24 @@ namespace FoodCourtApp
             objOrderDAL = new OrderDAL();
             if (!Page.IsPostBack)
             {
-                BindProductDataList();
+                if (SiteMaster.LoggedInUser != null)
+                {
+                    BindProductDataList();
+                    if (Session["Order"] == null)
+                    {
+                        Order order = objOrderDAL.GetInprogressOrder(SiteMaster.LoggedInUser.Id);
+                        if (order != null)
+                        {
+                            order.Details = objOrderDAL.GetOrderDetails(order.OrderId);
+                            Session["Order"] = order;
+                            Response.Redirect("Cart.aspx");
+                        }
+                    }
+                }
+                else
+                {
+                    Response.Redirect("Login.aspx");
+                }
             }
 
         }

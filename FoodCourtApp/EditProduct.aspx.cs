@@ -15,12 +15,25 @@ namespace FoodCourtApp
         private ProductDAL objProductDAL = null;
         protected void Page_Load(object sender, EventArgs e)
         {
+
             objProductDAL = new ProductDAL();
             if (!Page.IsPostBack)
             {
-                lblMessage.Visible = false;
-                int productId = Convert.ToInt32(Request.QueryString["Id"]);
-                loadProduct(productId);
+                if (SiteMaster.LoggedInUser != null)
+                {
+                    if (SiteMaster.LoggedInUser.RoleId != 1)
+                    {
+                        lblMessage.Visible = false;
+                        int productId = Convert.ToInt32(Request.QueryString["Id"]);
+                        loadProduct(productId);
+                    }else
+                    {
+                        Response.Redirect("Login.aspx");
+                    }
+                }else
+                {
+                    Response.Redirect("Login.aspx");
+                }
             }
         }
         private void loadProduct(int productId)

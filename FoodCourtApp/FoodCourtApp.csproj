@@ -125,6 +125,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="NewProduct.aspx" />
+    <Content Include="OrderComplete.aspx" />
     <Content Include="ProductLogos\Black Tea.jfif" />
     <Content Include="ProductLogos\Masala-Dosa-Recipe.jpg" />
     <Content Include="ProductLogos\NoImage.png" />
@@ -238,6 +239,13 @@
     </Compile>
     <Compile Include="NewProduct.aspx.designer.cs">
       <DependentUpon>NewProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderComplete.aspx.cs">
+      <DependentUpon>OrderComplete.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderComplete.aspx.designer.cs">
+      <DependentUpon>OrderComplete.aspx</DependentUpon>
     </Compile>
     <Compile Include="Products.aspx.cs">
       <DependentUpon>Products.aspx</DependentUpon>

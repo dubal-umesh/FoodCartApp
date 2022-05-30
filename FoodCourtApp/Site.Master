@@ -50,11 +50,23 @@
                     <a class="navbar-brand" runat="server" href="~/">Food Court</a>
                 </div>
                 <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
+                    <ul class="nav navbar-nav" id="menuGuest" visible="true" runat="server">
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                         <li><a runat="server" id="lnkLogin" href="~/Login.aspx">Login</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav" id="menuCustomer" visible="false" runat="server">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/ProductsCatalog.aspx">Catalog</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+
+                    </ul>
+                    <ul class="nav navbar-nav" id="menuAdmin" visible="false" runat="server">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="Products.aspx">Product</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+
                     </ul>
                 </div>
                 <div class="navbar-right">

@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1> Welcome to My Food Court</h1>
         <p class="lead">Food Court Description</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Order Now &raquo;</a></p>
+        <p><a href="~/ProductsCatalog.aspx" class="btn btn-primary btn-lg">Order Now &raquo;</a></p>
     </div>
 
     <div class="row">

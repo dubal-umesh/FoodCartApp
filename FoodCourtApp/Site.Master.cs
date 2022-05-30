@@ -5,25 +5,42 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using FoodCourtApp.Models;
 
 namespace FoodCourtApp
 {
     public partial class SiteMaster : MasterPage
     {
+        public static User LoggedInUser { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(Session["UserData"]!=null)
+            
+            if (Session["UserData"] != null)
             {
                 string message = "";
                 lnkLogin.Visible = false;
                 divLoginuser.Visible = true;
-                DataTable userDt = (DataTable)Session["UserData"];
-                if(userDt!=null)
+                User user = (User)Session["UserData"];
+                if (user != null)
                 {
-                    if(userDt.Rows.Count>0)
+                    LoggedInUser = user;
+                    menuGuest.Visible = false;
+                    message = "Welcome " + user.UserName;
+                    if(user.RoleId==1)
                     {
-                        message = "Welcome " + Convert.ToString(userDt.Rows[0]["UserName"]);
+                        menuAdmin.Visible = true;
+                        menuCustomer.Visible = false;
                     }
+                    if (user.RoleId == 2)
+                    {
+                        menuAdmin.Visible = false;
+                        menuCustomer.Visible = true;
+                    }
+
+                }
+                else
+                {
+                    menuGuest.Visible = true;
                 }
 
                 lblLoginUser.Text = message;

@@ -18,11 +18,11 @@ namespace FoodCourtApp.DAL
             connectionString = Convert.ToString(ConfigurationManager.ConnectionStrings["FoodCourtDbConnectionString"]);
         }
 
-        public DataTable validateUser(string userName, string password)
+        
+        public User validateUser(string userName, string password)
         {
-            SqlDataAdapter sda = new SqlDataAdapter();
-            DataTable dt = new DataTable();
-            DataSet ds = new DataSet();
+            SqlDataReader dr = null;
+            User user = null;
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -31,13 +31,22 @@ namespace FoodCourtApp.DAL
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@userName", userName);
                 cmd.Parameters.AddWithValue("@password", password);
-                sda.SelectCommand = cmd;
-                sda.Fill(ds, "UserData");
-                dt=ds.Tables[0];
+                dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    user = new User();
+                    user.Id = Convert.ToInt32(dr["ID"]);
+                    user.FirstName = Convert.ToString(dr["FirstName"]);
+                    user.LastName = Convert.ToString(dr["LastName"]);
+                    user.UserName = Convert.ToString(dr["UserName"]);
+                    user.RoleName = Convert.ToString(dr["RoleName"]);
+                    user.RoleId = Convert.ToInt32(dr["RoleId"]);
+                }
+                conn.Close();
                 conn.Close();
             }
 
-            return dt;
+            return user;
         }
 
         public string registerUser(User user)

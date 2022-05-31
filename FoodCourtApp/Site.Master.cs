@@ -25,7 +25,7 @@ namespace FoodCourtApp
                 {
                     LoggedInUser = user;
                     menuGuest.Visible = false;
-                    message = "Welcome " + user.UserName;
+                    message = "Welcome " + user.UserName +" | " + user.RoleName;
                     if(user.RoleId==1)
                     {
                         menuAdmin.Visible = true;

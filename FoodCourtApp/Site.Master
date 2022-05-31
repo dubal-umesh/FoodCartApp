@@ -58,13 +58,15 @@
                     </ul>
                     <ul class="nav navbar-nav" id="menuCustomer" visible="false" runat="server">
                         <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/MyOrders.aspx">My Orders</a></li>
                         <li><a runat="server" href="~/ProductsCatalog.aspx">Catalog</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
 
                     </ul>
                     <ul class="nav navbar-nav" id="menuAdmin" visible="false" runat="server">
                         <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="Products.aspx">Product</a></li>
+                        <li><a runat="server" href="~/Products.aspx">Products</a></li>
+                        <li><a runat="server" href="~/AllOrders.aspx">Orders</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
 
                     </ul>

@@ -1,7 +1,8 @@
 ﻿<%@ Page Title="New Product" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NewProduct.aspx.cs" Inherits="FoodCourtApp.NewProduct" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <div class="row">
+    <div class="row main-content">
+        <fieldset class="fieldsetStyle"> <legend class="legendStye">Product Information</legend>
         <table class="tblForm" width="700px">
             <tr>
                 <td class="labelAlign"><span class="form-label">Product Name</span> </td>
@@ -55,7 +56,7 @@
                     <asp:Button ID="btnSave" runat="server" Text="Save" OnClick="btnSave_Click"></asp:Button>
                 </td>
                 <td class="tdValidator">
-                    <asp:Button ID="btnCancel" runat="server" Text="Cancel" OnClick="btnCancel_Click"></asp:Button>
+                    <asp:Button ID="btnCancel" runat="server"  Text="Cancel" OnClick="btnCancel_Click" CausesValidation="false"></asp:Button>
 
                 </td>
             </tr>
@@ -68,5 +69,6 @@
 
 
         </table>
+            </fieldset>
     </div>
 </asp:Content>

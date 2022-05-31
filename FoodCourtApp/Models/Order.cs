@@ -16,6 +16,7 @@ namespace FoodCourtApp.Models
         public string Address { get; set; }
         public string ContactNo { get; set; }
         public List<OrderDetails> Details { get; set; }
+        public string Status { get; set; }
 
 
     }
